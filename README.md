@@ -24,9 +24,11 @@ Deploy a simple Node.js server to EC2, using Elastic Beanstalk.
 
 #### Using CLI
 
-1. eb init
-2. eb create
-3. eb deploy
+1. aws configure
+  - set up region
+3. eb init
+4. eb create
+5. eb deploy
 
 #### Features / Routes
 
